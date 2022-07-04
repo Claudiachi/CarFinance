@@ -1,0 +1,14 @@
+{
+  "name": "gocompare",
+  "version": "1.0.0",
+  "description": "goCompareTestProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Claudia Chirico",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
