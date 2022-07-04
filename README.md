@@ -1,8 +1,12 @@
 # CarFinance
 Car Finance journey test suite
 
-To start Cypress runner
+1. Install npm packages
+```
+npm install
+```
 
+2. To start Cypress runner
 ```
 npx cypress open
 ```
